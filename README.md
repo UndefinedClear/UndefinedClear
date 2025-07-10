@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-<details>
+  <p align="center">
+    <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
+  </p>
+
+  <p align="center">
+    <img style="border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
+  </p>
+
+<!-- <details>
   <summary>Statistic</summary>
   <p align="center">
     <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
@@ -11,11 +19,11 @@
   <summary>All languages</summary>
 <!--   <p align="center">
     <img style="border: none;" width="800px" height="800px" src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/a5dbd5bf-12f1-455f-8e0d-574d47eb26ff.svg">
-  </p> -->
+  </p> 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
   </p>
-</details>
+</details> -->
 
 <!-- ## Pins
 [![Gitparse](https://github-readme-stats.vercel.app/api/pin/?username=undefinedclear&repo=gitparse&show_owner=true)](https://github.com/UndefinedClear/Gitparse) -->
