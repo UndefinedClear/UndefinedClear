@@ -2,8 +2,8 @@
 
 <details>
   <summary>Statistic</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
+  <p text-align="center">
+    <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
   </p>
 </details>
 
