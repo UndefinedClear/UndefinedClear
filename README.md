@@ -1,4 +1,10 @@
-## Hi there 👋
+  <p align="center">
+    ✋Hi, I'm Alex
+    💗 I like these langs:
+    JS, C#, Python, Java, Lua
+
+    Below My Stats
+  </p>
 
   <p align="center">
     <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
