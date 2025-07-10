@@ -1,8 +1,7 @@
   <p align="center">
-    ✋Hi, I'm Alex
-    💗 I like these langs:
-    JS, C#, Python, Java, Lua
-
+    ✋Hi, I'm Alex<br>
+    💗 I like these langs:<br>
+    JS, C#, Python, Java, Lua<br><br>
     Below My Stats
   </p>
 
