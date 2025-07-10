@@ -2,7 +2,7 @@
 
 <details>
   <summary>Statistic</summary>
-  <p text-align="center">
+  <p align="center">
     <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
   </p>
 </details>
