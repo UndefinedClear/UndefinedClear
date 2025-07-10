@@ -4,7 +4,7 @@
 ![UndefinedClear's github stats](https://github-readme-stats.vercel.app/api?username=UndefinedClear)
 
 ## Pins
-[![RocketCode-Framework](https://github-readme-stats.vercel.app/api/pin/?username=UndefinedClear&repo=react&show_owner=true)](https://github.com/ExoHub-io/RocketCode-Framework)
+[![RocketCodeFramework](https://github-readme-stats.vercel.app/api/pin/?username=undefinedclear&repo=react&show_owner=true)](https://github.com/ExoHub-io/RocketCode-Framework)
 
 <!--
 **UndefinedClear/UndefinedClear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
