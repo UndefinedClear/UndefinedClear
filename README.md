@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<details>
+<details align="center">
   <summary>Statistic</summary>
-  <p align="center">
+  <p>
     <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
   </p>
 </details>
