@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Statistic
-![UndefinedClear's github stats](https://github-readme-stats.vercel.app/api?username=UndefinedClear)
+![UndefinedClear's github stats](https://github-readme-stats.vercel.app/api?username=UndefinedClear?theme=dark)
 
 ## Pins
 [![Gitparse](https://github-readme-stats.vercel.app/api/pin/?username=undefinedclear&repo=gitparse&show_owner=true)](https://github.com/UndefinedClear/Gitparse)
