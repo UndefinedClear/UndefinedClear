@@ -1,11 +1,11 @@
- <h1>About</h1>
+ <h1 align="center">About</h1>
   <p align="center">
     ✋Hi, I'm Alex<br>
     💗 I like these langs:<br>
     JS, C#, Python, Java, Lua<br>
   </p>
 
-  <h1>Statistic</h1>
+  <h1 align="center">Statistic</h1>
 
   <p align="center">
     <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
