@@ -15,16 +15,6 @@
     <img style="border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
   </p>
 
-  <h1 align="center">Organisation Statistic</h1>
-
-  <p align="center">
-    <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=exohub-io&theme=radical">
-  </p>
-
-  <p align="center">
-    <img style="border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exohub-io&size_weight=0.5&count_weight=0.5">
-  </p>
-
 <!-- <details>
   <summary>Statistic</summary>
   <p align="center">
