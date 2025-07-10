@@ -10,7 +10,7 @@
 <details>
   <summary>All langhuages</summary>
   <p align="center">
-    <img style="border: none;" width="500px" height="500px" src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/a5dbd5bf-12f1-455f-8e0d-574d47eb26ff.svg">
+    <img style="border: none;" width="800px" height="800px" src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/a5dbd5bf-12f1-455f-8e0d-574d47eb26ff.svg">
   </p>
 </details>
 
