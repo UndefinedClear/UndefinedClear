@@ -14,6 +14,10 @@
   <p align="center">
     <img style="border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
   </p>
+  
+  <p align="center">
+    <img src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/22bf1163-ac27-4c8c-9c8a-27198205d31f.png" />
+  </p>
 
 <!-- <details>
   <summary>Statistic</summary>
