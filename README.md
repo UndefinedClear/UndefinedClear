@@ -1,55 +1,36 @@
- <h1 align="center">About</h1>
-  <p align="center">
-    ✋Hi, I'm Alex<br>
-    💗 I like these langs:<br>
-    JS, C#, Python, Java, Lua<br>
-  </p>
+<h1 align="center">👋HI, Im Alex!</h1>
 
-  <h1 align="center">Statistic</h1>
+###
 
-  <p align="center">
-    <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
-  </p>
+<h2 align="center">❤️ Langs what I love</h2>
 
-  <p align="center">
-    <img style="border: none" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
-  </p>
-  
-  <p align="center">
-    <img src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/22bf1163-ac27-4c8c-9c8a-27198205d31f.png" />
-  </p>
+###
 
-<!-- <details>
-  <summary>Statistic</summary>
-  <p align="center">
-    <img style="border: none" src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&theme=radical">
-  </p>
-</details>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
 
-<details>
-  <summary>All languages</summary>
-<!--   <p align="center">
-    <img style="border: none;" width="800px" height="800px" src="https://wakatime.com/share/@b85ae86e-9ff3-4efb-9353-5436495fd9a5/a5dbd5bf-12f1-455f-8e0d-574d47eb26ff.svg">
-  </p> 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undefinedclear&size_weight=0.5&count_weight=0.5">
-  </p>
-</details> -->
+###
 
-<!-- ## Pins
-[![Gitparse](https://github-readme-stats.vercel.app/api/pin/?username=undefinedclear&repo=gitparse&show_owner=true)](https://github.com/UndefinedClear/Gitparse) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UndefinedClear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UndefinedClear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<!--
-**UndefinedClear/UndefinedClear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/UndefinedClear/UndefinedClear/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
