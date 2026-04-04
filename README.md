@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">❤️ Langs what I love</h2>
+<h2 align="center">❤️ My Skills/h2>
 
 ###
 
