@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  /> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,py,arch,c,cs,lua,cloudflare,discord,bots,dotnet,docker,github,git,idea,linux,md,neovim,nodejs,obsidian,npm,postman,sqlite,visualstudio,vscode,windows&perline=8&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,py,arch,c,cs,lua,cloudflare,discord,bots,dotnet,docker,github,git,idea,linux,md,neovim,nodejs,obsidian,npm,postman,sqlite,visualstudio,vscode,windows,flask,fastapi,maven&perline=8&theme=dark)](https://skillicons.dev)
 </div>
 
 ###
