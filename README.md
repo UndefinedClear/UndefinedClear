@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -23,7 +23,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  /> -->
+
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,py,arch,c,cs,lua,cloudflare,discord,bots,dotnet,docker,github,git,idea,linux,md,neovim,nodejs,obsidian,npm,postman,sqlite,visualstudio,vscode,windows&perline=3)](https://skillicons.dev)
 </div>
 
 ###
